@@ -1,0 +1,1 @@
+botkey = "paste_your_key"
